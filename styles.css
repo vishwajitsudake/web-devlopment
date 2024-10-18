@@ -1,0 +1,58 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+header {
+    background: #3343543;
+    color: white;
+    padding: 30px;
+   border:solid black 1px;
+	color:GrayText;
+
+	
+	
+}
+
+
+h1 {
+    margin: 0;
+	padding-left:30px;
+}
+
+section {
+    padding: 20px;
+    margin: 10px;
+    background: white;
+    border-radius: 5px;
+}
+
+#about img {
+    width: 350px;
+    height: 150px;
+	border:solid black 2px;
+}
+
+.project {
+  
+	
+}
+
+.project img {
+    max-width:300px;
+    height:300px;
+	border:solid black 2px;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background: #35424a;
+    color: white;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
